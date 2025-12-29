@@ -13,8 +13,7 @@ I work on **vibration isolation and low-frequency dynamics**, with an emphasis o
 - 🌱 **Currently learning:**  
   Nonlinear dynamics, control-oriented modeling, and advanced numerical methods
 
-- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b7ea1f66-c343-4382-b5a3-e4238f75ef55" />
- **Open to collaborating on:**  
+-  👯 **Open to collaborating on:**  
   Vibration, dynamics, mechanical metamaterials, and modeling-heavy research projects
 
 - 💬 **Ask me about:**  
